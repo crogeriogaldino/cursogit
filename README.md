@@ -1,2 +1,2 @@
 # cursogit
-Curso de GIT Versionado
+Curso de GIT Versionado - Criado no Curso de GIT.
